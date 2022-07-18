@@ -1,5 +1,4 @@
 |  _Numeric, String_ 	| _Text-based conversation data<br>Text-based customer feedback<br>Audio recordings of conversations_ 	|  _Images, Videos_ 	|
-|:------------------:	|:---------------------------------------------------------------------------------------------------:	|:-----------------:	|
 |  Machine Learning  	|                                  Natural Language Processing  (NLP)                                 	|  Computer Vision  	|
 | Akkio              	| MonkeyLearn                                                                                         	| Levity            	|
 | Intelus.ai         	| Google Cloud Natural Language Processing                                                            	| Teachable Machine 	|
