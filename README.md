@@ -13,6 +13,10 @@ The tire dataset used in the Chapter 2 Challenge/Solution is avaiable to downloa
 
 The Telco-Churn-Dataset for Chapter 3 is [located on Kaggle here](https://www.kaggle.com/datasets/yeanzc/telco-customer-churn-ibm-dataset), and originally available from the [IBM repo here](https://github.com/IBM/telco-customer-churn-on-icp4d).
 
+## Handout for Choosing a No-Code AI Platform
+
+The handout for choosing a No-Code AI platform discussed in Chapter 3 is [available in the repo here](/handout.md)
+
 [0]: # (Replace these placeholder URLs with actual course URLs)
 
 [lil-course-url]: https://www.linkedin.com/learning/
