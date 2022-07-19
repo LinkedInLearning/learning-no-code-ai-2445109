@@ -5,9 +5,9 @@ This is the repository for the LinkedIn Learning course Learning No-Code AI. The
 _There are several datasets that we reference and use throughout the course. You can access all of them at the links below._
 
 
-## Tire Dataset for Chapter 2 Challenge
+## Tire Defect Dataset for Chapter 2 Challenge
 
-The tire dataset used in the Chapter 2 Challenge/Solution is avaiable to download [here via Kaggle](https://www.kaggle.com/datasets/jehanbhathena/tire-texture-image-recognition).
+The tire defect dataset used in the Chapter 2 Challenge/Solution is avaiable to download [here via Kaggle](https://www.kaggle.com/datasets/jehanbhathena/tire-texture-image-recognition).
 
 ## Customer Churn Dataset for Chapter 3
 
