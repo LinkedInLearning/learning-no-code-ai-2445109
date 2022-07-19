@@ -13,7 +13,9 @@
 
 ## **Question 2** What is the industy vertical you work in?
   _Examples: finance, smart agriculture, oil and gas, manufacturing_
-  
-  
+|                      	|                                                                                                     	|                     	|
+|:--------------------:	|:---------------------------------------------------------------------------------------------------:	|:-------------------:	|
 ## **Question 3** What is your functional area of work?
    _Examples: sales, marketing_
+|                      	|                                                                                                     	|                     	|
+|:--------------------:	|:---------------------------------------------------------------------------------------------------:	|:-------------------:	|
