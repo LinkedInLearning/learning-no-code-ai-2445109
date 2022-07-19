@@ -7,7 +7,7 @@ _There are several datasets that we reference and use throughout the course. You
 
 ## Tire Defect Dataset for Chapter 2 Challenge
 
-The tire defect dataset used in the Chapter 2 Challenge/Solution is avaiable to download [here via Kaggle](https://www.kaggle.com/datasets/jehanbhathena/tire-texture-image-recognition).
+The tire defect dataset used in the Chapter 2 Challenge/Solution is avaiable to download [here via Kaggle](https://www.kaggle.com/datasets/jehanbhathena/tire-texture-image-recognition). Note that, for optimization purposes, we used only a subset of the datase to train the model.
 
 ## Customer Churn Dataset for Chapter 3
 
