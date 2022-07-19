@@ -2,7 +2,7 @@
 
 This is the repository for the LinkedIn Learning course Learning No-Code AI. The full course is available from [LinkedIn Learning][lil-course-url].
 
-_See the readme file in the main branch for updated instructions and information._
+_There are several datasets that we reference and use throughout the course. You can access all of them at the links below._
 
 
 ## Tire Dataset for Chapter 2 Challenge
