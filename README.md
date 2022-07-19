@@ -15,7 +15,7 @@ The handout for choosing a No-Code AI platform discussed in Chapter 3 is [availa
 
 ## Customer Churn Dataset for Chapter 3
 
-The Telco-Churn-Dataset for Chapter 3, Video 4 " is [located on Kaggle here](https://www.kaggle.com/datasets/yeanzc/telco-customer-churn-ibm-dataset), and originally available from the [IBM repo here](https://github.com/IBM/telco-customer-churn-on-icp4d).
+The Telco-Churn-Dataset for Chapter 3, Video 4 _Demo: No-Code AI with Machine Learning_ is [located on Kaggle here](https://www.kaggle.com/datasets/yeanzc/telco-customer-churn-ibm-dataset), and originally available from the [IBM repo here](https://github.com/IBM/telco-customer-churn-on-icp4d).
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
 
