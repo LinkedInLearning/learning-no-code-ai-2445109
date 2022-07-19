@@ -15,7 +15,7 @@ The Telco-Churn-Dataset for Chapter 3 is [located on Kaggle here](https://www.ka
 
 ## Handout for Choosing a No-Code AI Platform
 
-The handout for choosing a No-Code AI platform discussed in Chapter 3 is [available in the repo here](/handout.md)
+The handout for choosing a No-Code AI platform discussed in Chapter 3 is [available in the repo here](docs/Handout.md).
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
 
